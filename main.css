@@ -32,3 +32,8 @@ table, td{
 	display:flex;
 	flex-direction: column;
 }
+
+.figr{
+	display: flex;
+	flex-direction: row;
+}
